@@ -53,7 +53,8 @@ Sistema de gerenciamento de estique, que visa os seguintes objetivos:
 * Produto, pode se cadastrar  e  mostrar os relatorios
 
 ## Diagramas de caso de uso completo
-![Sistema estoque - trabalho do ED](Completo.png)
+![Trabalho do Ed - sistema estoque (2)](Markdown/Completo.png)
+
 
 ## Sobre
 * Cadastrar Fornecedor, pode se cadastrar, excluir e editar
