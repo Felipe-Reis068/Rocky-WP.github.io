@@ -20,7 +20,7 @@ Sistema de gerenciamento de estique, que visa os seguintes objetivos:
 
 - [Diagramas de caso de uso](#diagramas-de-caso-de-uso)
 
-- [Diagrama de caso de uso completo](#Diagramas-de-caso-de-uso-completo)
+- [Diagrama de caso de uso completo](#diagramas-de-caso-de-uso-completo)
 
  - [Implemetação](#implementação)
 
