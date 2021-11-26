@@ -32,7 +32,7 @@ Sistema de gerenciamento de estique, que visa os seguintes objetivos:
 
 ## Diagrama de classe
 
-![Trabalho do Ed - sistema estoque (2)](DC.png)
+![Trabalho do Ed - sistema estoque (2)](Markdown/DC.png)
 
 ## Sobre
 * Interface onde vai concentrar todos os outros atributos.
@@ -44,7 +44,7 @@ Sistema de gerenciamento de estique, que visa os seguintes objetivos:
 * Cadastro_Fornecedor, Onde os fornecedores vão estar cadastrados
 
 ## Diagramas de caso de uso
-![Sistema estoque - trabalho do ED](DCU.png)
+![Sistema estoque - trabalho do ED](Markdown/DCU.png)
 
 ## Sobre
 * Sistema de estoque, sendo a interface geral
@@ -53,7 +53,7 @@ Sistema de gerenciamento de estique, que visa os seguintes objetivos:
 * Produto, pode se cadastrar  e  mostrar os relatorios
 
 ## Diagramas de caso de uso completo
-![Sistema estoque - trabalho do ED](DCG.png)
+![Sistema estoque - trabalho do ED](Markdown/DCG.png)
 
 ## Sobre
 * Cadastrar Fornecedor, pode se cadastrar, excluir e editar
@@ -527,24 +527,24 @@ function verificar(id){
 
 # Telas do sistema em uso
 ## Tela Inicial
-![Sistema estoque - trabalho do ED](TelaInicial.PNG)
+![Sistema estoque - trabalho do ED](Markdown/TelaInicial.PNG)
 
 ## Cadastrar Cliente
-![Sistema estoque - trabalho do ED](CadastarCliente.PNG)
+![Sistema estoque - trabalho do ED](Markdown/CadastarCliente.PNG)
 
 
 
 ## Cadastrar Produto
-![Sistema estoque - trabalho do ED](CadastarProdutos.PNG)
+![Sistema estoque - trabalho do ED](Markdown/CadastarProdutos.PNG)
 
 ## Cadastrar Fornecedor
-![Sistema estoque - trabalho do ED](CadastroFornecedor.PNG)
+![Sistema estoque - trabalho do ED](Markdown/CadastroFornecedor.PNG)
 
 ## Cadastrar Produtos
-![Sistema estoque - trabalho do ED](RelatorioProdutos.PNG)
+![Sistema estoque - trabalho do ED](Markdown/RelatorioProdutos.PNG)
 
 ## Calcular Compra
-![Sistema estoque - trabalho do ED](TotalCompra.PNG)
+![Sistema estoque - trabalho do ED](Markdown/TotalCompra.PNG)
 ## Sobre
 * Se colocar o produto, quantidade e preço
 * Clica em Finalizar 
