@@ -1,0 +1,14 @@
+config:
+
+
+
+lsi: false
+safe: true
+source: [you project here]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
